@@ -1,2 +1,2 @@
-# learning_quarto
+# Learning Quarto
 Primeiros passos com o Quarto
